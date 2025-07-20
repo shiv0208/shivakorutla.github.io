@@ -42,18 +42,36 @@ Highly motivated **DevOps Engineer** with 3 years of experience in automating, d
 
 ## Projects
 
-### Toyo Tires (Dec 2021 – Mar 2023)
-- Managed SAP Hybris deployments using Bamboo CI/CD across Development, QA, and Production environments.  
-- Administered Linux servers for DevOps-related tasks.  
-- Tools: Bamboo, Bitbucket, Jira, Linux.
+### Client: SAP | Project: Citizen Engagement Accelerator (CEA) Dec 2021 - March 2023
+– Architected and deployed containerized SAP Hybris services on Amazon EKS using Helm charts for modular
+deployment and Argo CD for GitOps-based continuous delivery across Dev, Staging, and Production
+environments.
+– Enforced Kubernetes RBAC, managed service discovery, and handled application rollouts, scaling, and rollback
+using native Kubernetes and Helm features.
+– Automated infrastructure configuration and EC2 node bootstrapping using Ansible, reducing manual setup
+time by over 60%.
+– Provisioned scalable and fault-tolerant infrastructure using AWS CloudFormation for EC2, VPC, Load
+Balancer, and Auto Scaling Groups.
+– Integrated Jenkins pipelines with Argo CD and Ansible to support full CI/CD automation, cutting deployment
+effort by 50% and minimizing release errors.
+– Implemented dynamic scaling and rightsizing strategies on EKS and EC2, resulting in estimated monthly cost
+savings of 25–30% across non-prod environments.
 
-### CEA - Citizen Engagement Accelerator (Dec 2021 – Mar 2023)
-- Utilized Jenkins CI/CD pipeline for deploying SAP Hybris across multiple environments.  
-- Managed AWS infrastructure provisioning with Ansible and CloudFormation.
+### Client: HPE (Hewlett Packard Enterprise) Project: Hybris E-Commerce Dec 2021 - March 2023
+– Automated the deployment of SAP Hybris E-Commerce applications across ITG, Dev, UAT, and Production
+environments using Jenkins pipelines integrated with version control and artifact repositories.
+– Built CI/CD pipelines to compile, package, and deploy Hybris builds, reducing manual deployment effort by
+over 60% and increasing release consistency.
+– Integrated application health checks and infrastructure monitoring using New Relic; configured automated
+alerting and incident escalation through PagerDuty for real-time issue response.
+– Collaborated with cross-functional teams including Infrastructure, Network, S/4 HANA, SAP Basis, and SSO
+teams to ensure seamless end-to-end delivery.
+– Provisioned and managed AWS infrastructure using CloudFormation, setting up EC2 instances, VPCs, Load
+Balancers, and Auto Scaling Groups to ensure scalable and resilient environments.
+– Enabled rollbacks and environment promotions through version-controlled deployment strategies, improving
+release safety and reducing downtime during updates.
 
-### Repco Australia (Jan 2022 – Jan 2023)
-- Automated SAP Hybris deployment with Jenkins and Ansible.  
-- Streamlined workflows with Ansible for system upgrades and configuration.
+
 
 ---
 
